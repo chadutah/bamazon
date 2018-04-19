@@ -1,0 +1,31 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "mysql storefront",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadutah/bamazon.git"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadutah/bamazon/issues"
+  },
+  "homepage": "https://github.com/chadutah/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.2.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "npm": "^5.8.0",
+    "word-wrap": "^1.2.3"
+  },
+  "devDependencies": {}
+}
